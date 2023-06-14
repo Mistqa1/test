@@ -1,0 +1,5 @@
+git add - додати 
+git status - перевірити статус файлу
+cd cd C:\Users\Mist\git\test
+git commit -m "test commit 1"
+git push

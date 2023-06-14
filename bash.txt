@@ -1,0 +1,11 @@
+git fetch
+git pull 
+cat file1.txt
+git log --author Mistqa1
+$ git show 32b586c024e87973489eb8268ce6ab3bf9540107
+echo "Add line" >> file1.txt
+$ git diff
+git pust
+git status
+$ git commit -m "new commit"
+$ ls
