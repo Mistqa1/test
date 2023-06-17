@@ -15,5 +15,5 @@ git commit -am NAME
 git push -u origin NAME
 git merge NAME
 git checkout -
-git branch -d
+git branch -d видалити гілку
 git add .  - додати всі файли
