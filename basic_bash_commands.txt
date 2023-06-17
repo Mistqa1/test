@@ -9,3 +9,11 @@ git pust
 git status
 $ git commit -m "new commit"
 $ ls
+git branch NAME
+git checkout NAME
+git commit -am NAME
+git push -u origin NAME
+git merge NAME
+git checkout -
+git branch -d
+git add .  - додати всі файли
