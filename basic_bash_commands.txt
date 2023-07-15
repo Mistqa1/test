@@ -6,14 +6,19 @@ $ git show 32b586c024e87973489eb8268ce6ab3bf9540107
 echo "Add line" >> file1.txt
 $ git diff
 git pust
-git status
+git status - показує статус, чи були там зміни
 $ git commit -m "new commit"
 $ ls
 git branch NAME
 git checkout NAME
-git commit -am NAME
+git commit -am NAME - оновити репрозиторій
 git push -u origin NAME
 git merge NAME
 git checkout -
 git branch -d видалити гілку
-git add .  - додати всі файли
+git add .  - додати всі файли (додалист в відстежування)
+git add "ім'я файлу) - конкретний файл зберегти
+
+cd - перейти на потрібну деректорію
+git config --global --list - перевірити статус (без ліст можна переключитись)
+git clone (посилання) - стягнути файли з репрозиторія зовнішнього
