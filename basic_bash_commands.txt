@@ -1,5 +1,5 @@
-git fetch
-git pull 
+git fetch1
+git pull - забрати зміни
 cat file1.txt
 git log --author Mistqa1
 $ git show 32b586c024e87973489eb8268ce6ab3bf9540107
@@ -22,3 +22,5 @@ git add "ім'я файлу) - конкретний файл зберегти
 cd - перейти на потрібну деректорію
 git config --global --list - перевірити статус (без ліст можна переключитись)
 git clone (посилання) - стягнути файли з репрозиторія зовнішнього
+git init - стоворили репрозиторій в папці
+git remote add origin https://github.com/Mistqa1/pet.git - віддалене додавання до репозиторія
